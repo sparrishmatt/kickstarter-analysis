@@ -27,3 +27,9 @@ What can be gathered from this? Clearly May is the month with the most successfu
 ### Setting a Funding Goal
 
 The next thing to be done is finding out which funding range is most likely to yield success for this kickstarter project. 
+
+<img src="/Resources/Outcomes_vs_Goals.png" width="650">
+
+This shows that the outcomes of kickstarters that set smaller goals are more likely to be successful as opposed to those with higher goals, especially starting in the 15,000 to 19,999 range. There are also far less kickstarter campaigns with very high goals being set, which explains the wild shifting as the chart progresses. Using this knowledge along with the insight from above, it can be concluded that the best possible way to run a successful theatre based kickstarter to create a play would be to hold the kickstarter in May and to preferably keep the funding goal below the $5,000 mark if at all possible. 
+
+
